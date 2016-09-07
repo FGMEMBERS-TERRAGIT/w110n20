@@ -5,3 +5,4 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -100.238794 25.865442 447.43 18
 OBJECT_SHARED Models/Communications/vordme_1.xml -100.103967 25.772881 381.42 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -100.093661 25.772789 376.85 180
 OBJECT_SHARED Models/Airport/localizer.xml -100.117717 25.784467 391 31.38
+OBJECT_SHARED Models/Airport/Jetway/EDDM_jetway.ac -100.112958 25.778107 387.77 0
