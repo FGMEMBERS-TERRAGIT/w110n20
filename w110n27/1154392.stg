@@ -1,2 +1,10 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -109.966667 27.475 -95.35 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -109.837283 27.394758 56.73 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -109.83373 27.39845 0.00 18.97
+OBJECT_SHARED Models/lib/LgMaint.ac -109.82525 27.38901 57.58 43.1
+OBJECT_SHARED Models/lib/jetway_e10m.ac -109.83350 27.39790 58.31 179.37
+OBJECT_SHARED Models/lib/jetway_e10m.ac -109.83349 27.39831 57.90 179.37
+# END dsf2stg
